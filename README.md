@@ -4,7 +4,7 @@ Bem-vindo ao meu projeto de Calculadora de Juros Compostos! Este projeto foi des
 
 ## 📸 Demonstração
 
-[Calculadora de Juros Compostos](https://johnreiiss.github.io/Calculadora-de-juros-compostos/)
+[Calculadora de Juros Compostos](https://compound-calculator-devsanthiago.netlify.app/)
 
 ![Printscreen do projeto](https://github.com/user-attachments/assets/7fa15657-5654-48b6-89cc-1349b71153a7)
 
@@ -37,7 +37,7 @@ O projeto foi organizado da seguinte forma:
 
 ## 📝 Como Usar
 
-1. Acesse o Projeto: [Calculadora de Juros Compostos](https://johnreiiss.github.io/Calculadora-de-juros-compostos/)
+1. Acesse o Projeto: [Calculadora de Juros Compostos](https://github.com/DevSanthiago/Calculadora-de-juros-compostos)
 2. Insira os Dados:
    - Valor inicial (capital).
    - Taxa de juros ao mês.
